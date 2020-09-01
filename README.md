@@ -1,2 +1,2 @@
 # ising-model-monte-carlo
-Monte Carlo simulation code on Ising model
+Monte Carlo simulation codes to investigate the properties of Ising model
